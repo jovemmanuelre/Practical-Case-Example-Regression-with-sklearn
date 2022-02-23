@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .idea/
 1.04. Real-life example.csv
+.DS_Store
 # C extensions
 *.so
 
